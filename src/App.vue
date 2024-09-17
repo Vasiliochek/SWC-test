@@ -1,7 +1,12 @@
 <template>
-  <RouterView />
+  <HeaderMain />
+  <main>
+    <RouterView />
+  </main>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import HeaderMain from './components/Header-main.vue'
+</script>
 
 <style scoped></style>
