@@ -47,8 +47,6 @@ const router = useRouter()
 
   padding-top: 30px;
   padding-bottom: 30px;
-  margin-top: 100px;
-  margin-bottom: 100px;
 
   border-radius: 13px 0px 0px 13px;
 }
